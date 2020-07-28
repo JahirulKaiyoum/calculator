@@ -1,0 +1,52 @@
+.btn{
+    
+    padding: 20px 21px;
+font-size: 32px;
+    border: 1px solid gray;
+    width: 80px;
+    height: 80px;
+    margin-left: 42px;
+    margin-top: 5px;
+    margin-bottom: 15px; 
+    text-align: center;
+
+}
+.generate-pin{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+    border:none ;
+    display: block;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+.pin-generator{
+    background-color: gray;
+   
+
+}
+.pin-matching{
+background-color:cyan;
+}
+
+.form-control{
+    padding: 15px;
+    margin-top: 30px;
+    height: 100px;
+}
+#submit-btn{
+    width: 465px;
+    height: 55px;
+    
+    margin: 16px auto;
+    display: block;
+    border-radius: 7px;
+    border-width: 1px;
+}
+p{
+    text-align: center;
+}
