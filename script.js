@@ -1,6 +1,6 @@
 
 function inputNumber(input) {
-    let screen = document.getElementById("displayInput")
+    let screen = document.getElementById("displayInput");
     screen.value += input;
     
 }
